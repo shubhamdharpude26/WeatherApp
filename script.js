@@ -1,10 +1,3 @@
-/**
- * Weather App
- * Done: Complete getWeatherData() to return json response Promise
- * Done: Complete searchCity() to get user input and get data using getWeatherData()
- * Done: Complete showWeatherData() to set the data in the the html file from response
- */
-
 // API_KEY for maps api
 let API_KEY = "c8fbcf01a598cffeab50eb5bf8b6ab3d";
 
